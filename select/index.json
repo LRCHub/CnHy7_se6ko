@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "N",
+  "base_artist": "the engy",
+  "createdAt": "2026-03-11T05:02:33.499839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "N.G.R.I (Bloodstain)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_N.G.R.I_(Bloodstain)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "O.N.E",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_O.N.E_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/03_C-O-U-N-T-R-Y_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/04_C-O-U-N-T-R-Y_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock 'n' Roll Star",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Rock_'n'_Roll_Star_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "我不是Rock N' Roll",
+      "artist": "牛奶咖啡",
+      "has_synced": false,
+      "path": "select/06_我不是Rock_N'_Roll_牛奶咖啡.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pretty Tied Up (The Perils Of Rock N' Roll Decadence)",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/07_Pretty_Tied_Up_(The_Perils_Of_Rock_N'_Roll_Decadence)_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A-N-N-A",
+      "artist": "Freundeskreis",
+      "has_synced": false,
+      "path": "select/08_A-N-N-A_Freundeskreis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Biscuits n' Gravy",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/09_Biscuits_n'_Gravy_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Compton's N The House - Remix",
+      "artist": "N.W.A.",
+      "has_synced": false,
+      "path": "select/10_Compton's_N_The_House_-_Remix_N.W.A..txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dusted 'n' Disgusted",
+      "artist": "E-40 feat. 2Pac & Spice 1",
+      "has_synced": true,
+      "path": "select/11_Dusted_'n'_Disgusted_E-40_feat._2Pac_&_Spice_1.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dusted N Disgusted feat E-40",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/12_Dusted_N_Disgusted_feat_E-40_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ghetto Children (feat. N.E.R.D.\u0000Marc Dorsey)",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/13_Ghetto_Children_(feat._N.E.R.D.\u0000Marc_Dorsey)_Kelis.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ham 'N' Eggs",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/14_Ham_'N'_Eggs_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "21 M◊◊N WATER",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/15_21_M◊◊N_WATER_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "22 (OVER S∞∞N)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/16_22_(OVER_S∞∞N)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "22 (OVER S∞∞N) [Bob Moose Extended Cab Version]",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/17_22_(OVER_S∞∞N)_[Bob_Moose_Extended_Cab_Version]_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "22 (Over S∞∞N) (Bob Moose Extended Cab Version)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/18_22_(Over_S∞∞N)_(Bob_Moose_Extended_Cab_Version)_Bon_Iver.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "N",
+      "artist": "the engy",
+      "has_synced": false,
+      "path": "select/pl_01_N_the_engy.txt"
+    }
+  ]
+}
